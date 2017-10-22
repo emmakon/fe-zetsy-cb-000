@@ -46,8 +46,10 @@ h2 {
 
 .press img {
 	border: 5px solid rgb(199, 200, 201);
-	margin-left: 2%;
 }
+
+[class*="col-"] {
+  margin-left: 2%;
 
 footer {
 	clear: both;
