@@ -19,8 +19,9 @@ body {
 
 /* Write all remaining styles here */
 h1 {
-	color: grey;
+	color: rgb(152, 172, 166):
 	font-size: 32px;
+	
 }
 
 .necklace > img {
