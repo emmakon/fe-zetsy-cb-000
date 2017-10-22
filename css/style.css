@@ -26,6 +26,7 @@ h1 {
 	font-size: 64px;
 	font-family: Baskerville, "Times New Roman", "serif";
 	font-weight: normal;
+	padding-bottom: 0;
 }
 
 .necklace > img {
