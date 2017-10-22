@@ -43,3 +43,6 @@ h2 {
 	float: left;
 	width: 23.25%
 }
+
+[class*="col-"] {
+  margin-left: 2%;
