@@ -39,17 +39,8 @@ h2 {
 	color: rgb(110, 127, 128);
 }
 
-.col-1 {
-	float: left;
-	width: 25%;
-}
-
 .press img {
 	border: 5px solid rgb(199, 200, 201);
-}
-
-[class*="col-"] {
-  margin-left: 3%;
 }
 
 .first {
