@@ -44,6 +44,10 @@ h2 {
 	width: 23.25%
 }
 
+.press img {
+	border: 5px solid rgb(199, 200, 201);
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
