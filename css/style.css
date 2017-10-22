@@ -46,3 +46,8 @@ h2 {
 
 [class*="col-"] {
   margin-left: 2%;
+}
+
+footer {
+	clear: both;
+}
