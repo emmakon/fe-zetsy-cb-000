@@ -48,6 +48,10 @@ h2 {
   margin-left: 2%;
 }
 
+.first {
+	margin-left: 0%;
+}
+
 footer {
 	clear: both;
 }
